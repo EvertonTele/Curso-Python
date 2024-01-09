@@ -1,0 +1,2 @@
+# Curso-Python
+Praticando exercícios 
